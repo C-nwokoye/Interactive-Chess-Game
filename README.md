@@ -48,6 +48,7 @@ The game adheres to traditional chess rules:
 Feel free to reach out for any questions, suggestions, or just to chat about chess! You can contact me here:
 
 GitHub: @C-nwokoye
+
 Email: cnwokoye@mail.wlu.edu
 
 # Enjoy the Game! 🎉
